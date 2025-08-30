@@ -1,0 +1,10 @@
+⚡ The hidden C++ engine powering your Node.js apps
+
+Who’s behind Node.js?
+ Most people will say: JavaScript.
+Truth is… it’s C++ quietly doing the heavy lifting in the background.
+JavaScript handles the high-level magic you write every day.
+ But C++ powers Node.js’s core — handling memory, performance, and system-level operations.
+It’s a good reminder that the tech we see is often built on tech we don’t see.
+ Just like flashy apps rely on hidden APIs, and user-friendly UIs rely on complex backend logic.
+In tech (and in life), the real work is often done by the unsung layers.

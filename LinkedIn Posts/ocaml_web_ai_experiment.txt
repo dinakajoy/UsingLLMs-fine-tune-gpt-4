@@ -1,0 +1,9 @@
+🐫 OCaml + AI: an underrated combo?
+
+Most AI devs live in Python, but I wanted to see if OCaml could shine for AI-backed web apps. Using OCaml for the backend logic and a Python microservice for ML inference, I got:
+
+- Type safety for complex data flows
+- Predictable performance under high concurrency
+- Easier reasoning about AI pipeline state
+
+It’s niche, but if you’re into strongly-typed functional programming and need AI integration, OCaml can surprise you.

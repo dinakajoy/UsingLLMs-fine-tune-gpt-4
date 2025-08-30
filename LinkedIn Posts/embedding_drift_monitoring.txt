@@ -1,0 +1,10 @@
+📉 Embedding drift is real — and it can ruin your RAG.
+
+Over time, as you update embeddings or fine-tune your retriever, you might notice the model "forgetting" relevant docs.
+
+I implemented an embedding drift monitor:
+- Sample queries weekly
+- Compare current top-k docs to historical results
+- Trigger re-indexing when similarity scores shift
+
+Treat your vector DB like a living organism — monitor its health.

@@ -1,0 +1,13 @@
+🧩 Can small models really reason better than you think?
+
+The Hierarchical Reasoning Model — it's been so long since I've read and implemented an ML paper this fun!
+
+But is all the hype really justified?
+
+Especially given the term "reasoning" in the name, you've certainly heard a loooot of noise about them online.
+
+As it presently stands, HRM can only solve toy problems — BUT they are the only models, especially in their size and complexity class, that can solve those toy problems even remotely efficiently or well.
+
+It's a huge step forward — but comparing them to LLMs, for example, is like comparing apples to oranges. 
+
+To better understand the math behind and behaviour of HRMs, I wrote my own implementations in MLX (Swift) and JAX (Python) to learn a neural Sudoku solver!

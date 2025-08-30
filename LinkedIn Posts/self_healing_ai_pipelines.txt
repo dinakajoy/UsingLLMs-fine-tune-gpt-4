@@ -1,0 +1,10 @@
+🩹 Self-healing AI pipelines save sleepless nights.
+
+I built a data pipeline for a financial AI app that could:
+- Detect missing data in real time
+- Re-fetch from alternate sources
+- Re-run failed inference jobs automatically
+
+End result? 0 manual interventions in 3 months.
+
+In AI, things *will* break. The smart move is building systems that fix themselves.

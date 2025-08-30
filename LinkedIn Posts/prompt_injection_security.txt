@@ -1,0 +1,10 @@
+🚨 Prompt injection is the SQL injection of AI.
+
+I’ve seen production systems fail catastrophically because a user slipped malicious instructions into model input.
+
+Defenses I’ve implemented:
+- Input sanitization
+- Strict separation of user data & system prompts
+- Post-processing validation
+
+Never trust raw model output. Security in AI is still security.

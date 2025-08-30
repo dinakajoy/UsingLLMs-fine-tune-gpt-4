@@ -1,0 +1,8 @@
+🤖 Are you smarter than ChatGPT? A kid put me on the spot…
+
+"Are you smarter than ChatGPT?"
+That was my favourite question from a kid while demoing Pepper the Robot at the STEM4Girls camp. Children have a way of asking questions that make you stop and think, often in ways they never intended.
+
+Even though Pepper’s responses rely on large language models similar to ChatGPT’s — and, honestly, less powerful ones — the robot's physical form dramatically shifts how the kids perceived its intelligence.
+
+This was yet another reminder that the "UX" around tech — its packaging, interface, presentation — usually influences our expectations of its capabilities more than even the technology itself.

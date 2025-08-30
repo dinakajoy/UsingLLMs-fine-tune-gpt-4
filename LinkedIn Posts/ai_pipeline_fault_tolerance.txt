@@ -1,0 +1,12 @@
+🛡️ Fault tolerance in AI pipelines is not optional.
+
+Unlike traditional software where failures can be deterministic, AI systems fail in unpredictable ways — bad outputs, hallucinations, or upstream API downtime.
+
+I built a pipeline that processes 50K+ requests/day with layered failover:
+1. Primary LLM → 2. Backup LLM → 3. Template fallback
+2. Structured logging for every retry path
+3. Token usage alerts for runaway loops
+
+The result? 99.97% uptime *and* predictable output quality, even during API outages.
+
+If you’re running AI in production, resilience is your best feature.

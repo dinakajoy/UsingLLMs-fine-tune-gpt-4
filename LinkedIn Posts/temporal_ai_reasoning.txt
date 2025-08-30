@@ -1,0 +1,9 @@
+⏳ Teaching AI to reason over time.
+
+Most LLMs are stateless — they see each prompt in isolation. But for tasks like forecasting or multi-step planning, temporal context matters.
+
+I experimented with storing intermediate reasoning steps in a graph DB, then feeding the chain back into the model.
+
+The result: 18% improvement on long-horizon reasoning tasks.
+
+Sometimes the best AI upgrade is giving it a better memory.

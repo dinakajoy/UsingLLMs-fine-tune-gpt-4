@@ -1,0 +1,10 @@
+🛠️ Forget the AI buzzwords — focus on reducing cognitive load
+
+"Agentic AI", "AI Agents", ... yet another set of buzzwords to get tired of hearing thrown around constantly 😔
+
+The real value isn't in adding yet another conversational interface. It's about rethinking organizational practices and technical approaches to reduce users' cognitive load and truly make experiences more meaningful and scalable — even if that means your solutions don't look anything like the "agents" we see today.
+Robb W. and Josh Tyson brilliantly unpack this in the second edition of their book "Age of Invisible Machines". They highlight that real progress with AI isn't about chasing flashy tech, but about creating experiences that seamlessly handle complexity, letting humans focus on more impactful, creative tasks.
+
+This book resonated deeply with my own experiences building real-world AI; the authors — and hosts of the Invisible Machines podcast by UX Magazine — Robb and Josh, articulate patterns, pitfalls, and solutions that I've seen repeatedly, and much more!
+
+If you're working on AI or building solutions that scale, I'd highly recommend learning from Age of Invisible Machines 👉 https://lnkd.in/g-GkWA_V

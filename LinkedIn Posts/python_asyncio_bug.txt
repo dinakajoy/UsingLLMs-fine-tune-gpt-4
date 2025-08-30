@@ -1,0 +1,7 @@
+🐍 When fixing a Python bug means rewriting asyncio itself…
+
+"If nothing magically works, nothing magically breaks." — that's my favourite quote in the world of software.
+
+I recently encountered a super complex bug, and after countless hours of debugging and digging into the quirks of all the possible reference-holders of a certain object, actually modifying the *way Python's asyncio works* ended up being the best way to verify that its TimerHandles were the culprits (https://lnkd.in/gMme5QwK)
+
+The "magic" Python does to abstract away a lot of programming from you is sometimes convenient, but this was a perfect example of how solving problems beyond a certain threshold of complexity is often *easier* with seemingly more "complex", less magical tooling 🪄

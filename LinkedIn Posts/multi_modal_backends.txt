@@ -1,0 +1,8 @@
+🎥 Building multi-modal AI backends is… messy.
+
+Text is easy. But once you mix in images, audio, or video, your backend needs to handle:
+- Different inference times per modality
+- Storage + retrieval for large binary blobs
+- Syncing results from heterogeneous models
+
+I learned the hard way that you can’t just “add an image model” to a text pipeline — you need orchestration that respects each modality’s quirks.

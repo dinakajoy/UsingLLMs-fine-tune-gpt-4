@@ -1,0 +1,9 @@
+📊 When ML turns your simple project into research
+
+When "AI" / Machine Learning technology enters the picture, even seemingly simple projects suddenly transform into research projects!
+
+During my keynote at the Ontario Project Management Competition (OPMC) 2025 event, I explored how integrating ML into projects fundamentally changes the nature of project management. Unlike traditional software projects — where solutions often involve assembling known components — ML introduces statistical uncertainty and necessitates continual experimentation; every outcome is a moving target!
+
+This shift places extraordinary value on highly skilled project managers who can manage uncertainty and guide teams toward success despite ambiguity.
+
+A huge thank you to everyone at OPMC for the thought-provoking discussions, and to the organizers for inviting me to speak!

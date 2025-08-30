@@ -1,0 +1,10 @@
+🔄 Real-time AI streaming is changing the game.
+
+Most LLM use cases are request-response, but streaming output lets you:
+- Show users progress as the model generates
+- Cancel early if the answer is already found
+- Improve perceived speed
+
+I recently integrated streaming into a customer support tool — response satisfaction jumped 32% just from perceived responsiveness.
+
+Sometimes speed isn’t about milliseconds, it’s about experience.

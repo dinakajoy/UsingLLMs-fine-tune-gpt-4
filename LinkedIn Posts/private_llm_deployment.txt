@@ -1,0 +1,12 @@
+🔒 Running your own LLM isn’t just for big companies.
+
+Using a fine-tuned 13B model on a single A100, I built a private Q&A system for a client’s proprietary docs.
+
+Benefits:
+- Zero data leaves their infra
+- Lower latency than API calls
+- Full control over updates & fine-tunes
+
+Downside? You *will* need serious MLOps and monitoring.
+
+But for sensitive industries, self-hosting is a game-changer.

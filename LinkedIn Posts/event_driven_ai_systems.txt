@@ -1,0 +1,10 @@
+📡 AI + event-driven architecture = underrated.
+
+Instead of polling data and running the same expensive inference repeatedly, I switched to an event-driven model:
+- Kafka for event streaming
+- Trigger inference only on relevant changes
+- Cache and reuse past results
+
+This reduced compute load by 42% and cut latency for critical updates.
+
+Not all AI workloads are constant — react to changes, don’t chase them.

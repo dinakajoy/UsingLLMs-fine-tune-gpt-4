@@ -1,0 +1,9 @@
+⚙️ How do you orchestrate multiple LLMs effectively?
+
+In large-scale AI systems, orchestration is not just a nice-to-have — it's mission-critical.
+
+You might start with a single model and simple prompts, but as requirements grow, you'll need chains, trees, and sometimes even agent-based designs to route queries, validate outputs, and retry intelligently.
+
+I've been experimenting with combining function calling + retrieval + lightweight rule engines. The key insight: *the most expensive step in AI pipelines isn't always inference — it's bad orchestration leading to wasted tokens and compute.*
+
+Think like a backend engineer, design like a product owner, and orchestrate like a conductor. That’s how you scale AI systems that last.

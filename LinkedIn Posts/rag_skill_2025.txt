@@ -1,0 +1,24 @@
+📚 Why RAG might be the most important AI skill in 2025
+
+If I had to bet on one skill in AI as an engineer… I’d go for RAG. And this is exactly how I’d learn it from scratch in 2025.
+
+Why RAG?
+
+When context windows are getting bigger.
+
+You might think: “Why not just upload my entire doc DB or codebase to the chat?”
+
+But that’s flawed for two reasons:
+
+1. Bigger context ≠ better context
+Just because the model can see more doesn’t mean it sees what matters.
+
+2. Tokens aren’t free
+If you're building anything beyond a personal project, 
+cost becomes very real.
+
+Serving millions of users with token-heavy prompts? 
+That’ll burn a hole through your API budget.
+You can’t afford to brute-force context.
+
+You need to engineer it, and that’s where RAG becomes non-negotiable.

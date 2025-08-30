@@ -1,0 +1,10 @@
+⚡ Caching LLM responses isn’t just about speed — it’s about cost.
+
+In one of my AI projects, caching reduced API spend by 68% while *improving* user experience.
+
+Strategies that worked:
+- Cache by normalized prompt (case, whitespace, synonyms handled)
+- Use TTLs to refresh critical data without overwhelming the model
+- Layer cache hits: memory → Redis → fallback to LLM
+
+AI latency feels like bad UX. Cache smartly, and your infra & budget will thank you.

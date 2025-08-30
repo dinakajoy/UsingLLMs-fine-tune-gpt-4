@@ -1,0 +1,7 @@
+📚 Scaling RAG is harder than it looks.
+
+RAG (Retrieval-Augmented Generation) shines when you have the right document retrieval strategy. But once your dataset grows into millions of records, naive similarity search can bottleneck.
+
+I recently ran benchmarks on hybrid search (sparse + dense) over a 20M document dataset. Using approximate nearest neighbor indexing with metadata filters reduced query time from 2.8 seconds to 180ms.
+
+Lesson: RAG is as much about *information architecture* as it is about prompt engineering. Treat your index like a core API — maintain it, monitor it, and optimize it relentlessly.

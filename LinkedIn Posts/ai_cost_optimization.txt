@@ -1,0 +1,10 @@
+💰 Optimizing AI costs without sacrificing quality.
+
+In a production AI system, every token has a price. I ran an experiment reducing costs on a text analytics API:
+- Switched from GPT-4 to GPT-3.5 for classification
+- Added pre-filtering logic to skip unnecessary queries
+- Batched requests where possible
+
+The outcome: 54% cost reduction, same quality.
+
+AI engineering is as much about economics as it is about algorithms.
