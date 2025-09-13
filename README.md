@@ -23,7 +23,7 @@ This project covers the end-to-end process of fine-tuning GPT-4, including:
    ```bash
    git clone https://github.com/dinakajoy/fine-tune-gpt-4.git
    cd fine-tune-gpt-4
-3. **Set your OpenAI API key**
-4. **Prepare your data**: 
+3. **Set your OpenAI API key:** Check notebook
+4. **Prepare your data**: Check the `LinkedIn Posts` folder.  
 Save each fine-tuning data as a .txt file
 5. Run the notebook
